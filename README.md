@@ -1,5 +1,7 @@
 # JIS下駄配列
 
+[![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&vc)](https://github.com/funatsufumiya/jis_geta/releases)
+
 JIS + 新下駄 = JIS下駄配列。
 
 - **※1**: 名前に「JIS」とありますが、JIS配列を元にしただけで、JISに即しているわけではありません。
