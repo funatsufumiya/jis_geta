@@ -100,4 +100,4 @@ JIS + 新下駄 = JIS下駄配列。
 
 ### この配列（JIS下駄配列）
 
-- MIT License / Apache License のデュアルライセンス。（ただし、ベース配列の著作権に注意してください。）
+- MIT License / Apache License のデュアルライセンス。（ただし、ベース配列の著作権にも配慮をお願いします。）
