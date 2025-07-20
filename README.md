@@ -1,6 +1,6 @@
 # JIS下駄配列
 
-[![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&v2)](https://github.com/funatsufumiya/jis_geta/releases)
+[![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&v3)](https://github.com/funatsufumiya/jis_geta/releases)
 
 JIS + 新下駄 = JIS下駄配列。
 
@@ -104,6 +104,14 @@ JIS + 新下駄 = JIS下駄配列。
   - ほかも同様にしたかったのですが、薬指シフトと中指シフトとの兼ね合いより、避けなければならないキーがあったことも含め、濁音と半濁音は極力並ぶようにしています。（`J`(YA)と`B`(YA)は同じさ行とは行である「そ」と「ひ」など、ある程度の覚えやすさは意識しています。）
   - `K`(YA)（「き」）については、JIS配列から入れ替えていることを踏まえ、入れ替え前後の両方で同じ挙動をするように配慮しています。（印字面を見ながら打つことを想定。）
 - v1.1.2より、JIS配列との互換性が上がったため、拗音レイヤーは必須ではなくなりました。慣れない間は従来通りの「ゃ/ゅ/ょ」等を使えますが、「う」の位置が変更になっているので少し慣れが必要かもしれません。
+
+## Contribution
+
+- バグ報告などは随時歓迎します。動作のバグについてはGitHubにIssueを立ててください。（バグなどの動作不具合のみに限ります。）
+- 利用方法の質問、リクエストなどには対応できない可能性が高いので、基本的に自力での解決（フォーク・PR等）やコミュニティによる支援を得ることになろうかと思います。
+  - 一応そのために、GitHub Discussionを設けています。Issueを立てるほどではないような迷うケースでは、Discussionを使ってください。
+  - Discussionに質問を投稿されても、必ず解決策が得られるというわけではないので、過度な期待はしないでください。
+- PR (Pull Request) は歓迎します。Issueを先に立てていただいても構いませんし、PRを初めから作ってもらっても構いません。
 
 ## License
 
