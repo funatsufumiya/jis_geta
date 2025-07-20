@@ -1,8 +1,8 @@
 {
-  "title": "JIS下駄配列 v1.1.3",
+  "title": "JIS下駄配列 v1.1.4",
   "rules": [
     {
-      "description": "JIS下駄配列 v1.1.3 for JP keyboard",
+      "description": "JIS下駄配列 v1.1.4 for JP keyboard",
       "manipulators": [
         {
           "type": "basic",
@@ -1718,7 +1718,7 @@
           "from": {
             "simultaneous": [
               {
-                "key_code": "8"
+                "key_code": "7"
               },
               {
                 "key_code": "d"
@@ -1734,6 +1734,52 @@
             },
             {
               "key_code": "a"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "keyboard_type_if",
+              "keyboard_types": [
+                "jis"
+              ]
+            },
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.apple\\.loginwindow$"
+              ]
+            },
+            {
+              "type": "input_source_if",
+              "input_sources": [
+                {
+                  "language": "ja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {
+                "key_code": "8"
+              },
+              {
+                "key_code": "d"
+              }
+            ]
+          },
+          "to": [
+            {
+              "key_code": "x"
+            },
+            {
+              "key_code": "y"
+            },
+            {
+              "key_code": "u"
             }
           ],
           "conditions": [
