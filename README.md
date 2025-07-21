@@ -86,6 +86,13 @@ JIS + 新下駄 = JIS下駄配列。
     - メリット・デメリットは、基本的にJIS配列のそれを引き継ぐが、打ちにくさは緩和されている。
 - 「っ/く/う」の打鍵感は新下駄配列とほぼ同じで、促音（っ）・拗音（ゃゅょ）関連の打鍵の流れは新下駄配列由来。
 
+## 各種計測データなど
+
+- Keyboard Layout Analyzerを使った比較: https://funatsufumiya.hatenablog.com/entry/2025/07/20/164420
+- 日本語キー配列アナライザーを使った比較: https://funatsufumiya.hatenablog.com/entry/2025/07/21/130110
+    - 記事中で使った解析器: https://funatsufumiya.github.io/keyboard_analyzer_jisgeta_static/
+        - (ソースコード: https://github.com/funatsufumiya/keyboard_analyzer_jisgeta)
+
 ## 仕様の解説
 
 ### 単打面および中指・薬指同時シフト
