@@ -7,6 +7,15 @@ JIS + 新下駄 = JIS下駄配列。
 - **※1**: 名前に「JIS」とありますが、JIS配列（かな入力）を元にしただけで、JISに即しているわけではありません。
 - **※2**: 名前に「下駄」とあるのは、新下駄配列をベースにしていることと、新下駄配列への敬意を示しています。
 
+## 紹介動画
+
+(※ 現時点では冒頭部のみ先行公開しています。)
+
+https://www.youtube.com/watch?v=u1ozpX5ZUWU
+
+[![紹介動画（冒頭部のみ）](docs/screenshot_movie.png)](https://www.youtube.com/watch?v=u1ozpX5ZUWU)
+
+
 ## 仕様
 
 ![docs/screenshot_main.png](docs/screenshot_main.png)
