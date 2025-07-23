@@ -9,11 +9,9 @@ JIS + 新下駄 = JIS下駄配列。
 
 ## 紹介動画
 
-(※ 現時点では前半のみ先行公開しています。)
+https://youtu.be/lSc-KZsAjAk
 
-https://www.youtube.com/watch?v=aare1IlD6Vs
-
-[![紹介動画（冒頭部のみ）](docs/screenshot_movie.png)](https://www.youtube.com/watch?v=aare1IlD6Vs)
+[![紹介動画](docs/screenshot_movie2.png)](https://youtu.be/lSc-KZsAjAk)
 
 
 ## 仕様
