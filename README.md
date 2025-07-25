@@ -72,14 +72,18 @@ https://youtu.be/lSc-KZsAjAk
 
 ## 設定ファイル
 
-- [やまぶきR用 レイアウトファイル](./JIS下駄.yab)
-- [やまぶきR用 タイピング練習用 レイアウトファイル](./JIS下駄_タイピング練習用.yab)
-- [Karabiner Elements用 設定ファイル](./jis_geta.json)
-- [Karabiner Elements用 タイピング練習用 設定ファイル](./jis_geta_typing_practice.json)
+- [やまぶきR用 レイアウトファイル](./JIS下駄.yab) (※1)
+- [やまぶきR用 タイピング練習用 レイアウトファイル](./JIS下駄_タイピング練習用.yab) (※1)
+- [Karabiner Elements用 設定ファイル](./jis_geta.json) (※2)
+- [Karabiner Elements用 タイピング練習用 設定ファイル](./jis_geta_typing_practice.json) (※2)
+- [かえうち用 設定ファイル](./JIS下駄.kaeuchi) (※3)
+- [かえうち用 JSONファイル](./jis_geta_kaeuchi.json) (※3)
 
-※ やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。<br>
+※1 やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。<br>
 <br>
-※ Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。
+※2 Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。<br>
+<br>
+※3 かえうち用ファイルは、現時点では外来語支援を設定していません。また、同時シフト等のアルゴリズム的に、打ちづらい場合があります。
 
 ## 特徴
 
