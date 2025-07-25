@@ -77,7 +77,9 @@ https://youtu.be/lSc-KZsAjAk
 - [Karabiner Elements用 設定ファイル](./jis_geta.json)
 - [Karabiner Elements用 タイピング練習用 設定ファイル](./jis_geta_typing_practice.json)
 
-※ やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。
+※ やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。<br>
+<br>
+※ Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。
 
 ## 特徴
 
