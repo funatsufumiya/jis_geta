@@ -73,7 +73,9 @@ https://youtu.be/lSc-KZsAjAk
 ## 設定ファイル
 
 - [やまぶきR用 レイアウトファイル](./JIS下駄.yab)
-- [Karabiner Elements用設定ファイル](./jis_geta.json)
+- [やまぶきR用 タイピング練習用 レイアウトファイル](./JIS下駄_タイピング練習用.yab)
+- [Karabiner Elements用 設定ファイル](./jis_geta.json)
+- [Karabiner Elements用 タイピング練習用 設定ファイル](./jis_geta_typing_practice.json)
 
 ※ やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。
 
