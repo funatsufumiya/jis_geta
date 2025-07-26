@@ -3604,10 +3604,7 @@
           },
           "to": [
             {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
+              "key_code": "slash"
             }
           ],
           "conditions": [
@@ -3647,10 +3644,7 @@
           },
           "to": [
             {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
+              "key_code": "slash"
             }
           ],
           "conditions": [
@@ -6239,10 +6233,7 @@
           },
           "to": [
             {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
+              "key_code": "slash"
             }
           ],
           "conditions": [
