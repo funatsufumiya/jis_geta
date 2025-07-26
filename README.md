@@ -88,7 +88,7 @@ https://youtu.be/lSc-KZsAjAk
 <br>
 ※2 Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。<br>
 <br>
-※3 かえうち用ファイルは、現時点では外来語支援を設定していません。また、同時シフト等のアルゴリズム的に、打ちづらい場合があります。
+※3 かえうち用ファイルは、現時点では外来語支援や数字入力支援を設定していません。やまぶきR、Karabiner Elements用に比較して、配列仕様の最新版への追従が遅い可能性があります。また、同時シフト等のアルゴリズム的に、打ちづらい場合があります。
 
 ## 特徴
 
