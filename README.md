@@ -101,7 +101,10 @@ https://youtu.be/lSc-KZsAjAk
 
 その他のソフトやプラットフォームの実装など。
 
-- QMK: → デバイスごとに実装が様々なので、このリポジトリには含めません。作者自身による[K3Pro実装](https://github.com/funatsufumiya/qmk_firmware_k3pro/blob/main/keyboards/keychron/k3_pro/readme.md)などを参考にしてください。
+- QMK:
+    - デバイスごとに実装が様々なので、**このリポジトリには含めません**。作者自身による[K3Pro実装](https://github.com/funatsufumiya/qmk_firmware_k3pro/blob/main/keyboards/keychron/k3_pro/readme.md)などを参考にしてください。
+- Linux実装:
+    - （計画中です。作者が過去に作った[shingeta-linux-ruby](https://github.com/funatsufumiya/shingeta-linux-ruby)などをベースにする予定です。）
 
 ## 特徴
 
