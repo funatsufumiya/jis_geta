@@ -77,18 +77,29 @@ https://youtu.be/lSc-KZsAjAk
 
 ## 設定ファイル
 
+※ 以下に書くTier1〜3は、更新の優先度を表します。Tier数が1から離れるほど、最新への追従やバグ修正などが遅くなります。
+
+### Tier1
+
 - [やまぶきR用 レイアウトファイル](./JIS下駄.yab) (※1)
 - [やまぶきR用 タイピング練習用 レイアウトファイル](./JIS下駄_タイピング練習用.yab) (※1)
 - [Karabiner Elements用 設定ファイル](./jis_geta.json) (※2)
 - [Karabiner Elements用 タイピング練習用 設定ファイル](./jis_geta_typing_practice.json) (※2)
-- [かえうち用 設定ファイル](./JIS下駄.kaeuchi) (※3)
-- [かえうち用 JSONファイル](./jis_geta_kaeuchi.json) (※3)
 
 ※1 やまぶきRは文字コードに敏感なので、動かない場合はShift-JIS等で再保存するなどしてください。<br>
 <br>
-※2 Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。<br>
-<br>
+※2 Karabiner Elements用ファイルは、`~/.config/karabiner/assets/complex_modifications` に配置して利用するものですが、Complex Modificationについての一般的な詳細は本ドキュメントでは割愛します。
+
+### Tier2
+
+- [かえうち用 設定ファイル](./JIS下駄.kaeuchi) (※3)
+- [かえうち用 JSONファイル](./jis_geta_kaeuchi.json) (※3)
+
 ※3 かえうち用ファイルは、現時点では外来語支援や数字入力支援を設定していません。やまぶきR、Karabiner Elements用に比較して、配列仕様の最新版への追従が遅い可能性があります。また、同時シフト等のアルゴリズム的に、打ちづらい場合があります。
+
+### Tier3
+
+（その他のプラットフォームの実装。まだ公式には存在せず。※ フォークや他の実装等は存在する可能性はあり。）
 
 ## 特徴
 
