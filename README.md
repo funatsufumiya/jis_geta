@@ -99,7 +99,9 @@ https://youtu.be/lSc-KZsAjAk
 
 ### Tier3
 
-（その他のソフトやプラットフォームの実装など。まだ公式には存在せず。※ フォークや他の実装等は存在する可能性はあり。）
+その他のソフトやプラットフォームの実装など。
+
+- QMK: → デバイスごとに実装が様々なので、このリポジトリには含めません。作者自身による[K3Pro実装](https://github.com/funatsufumiya/qmk_firmware_k3pro/blob/main/keyboards/keychron/k3_pro/readme.md)などを参考にしてください。
 
 ## 特徴
 
