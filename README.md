@@ -1,6 +1,8 @@
 # JIS下駄配列
 
-[![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&v5)](https://github.com/funatsufumiya/jis_geta/releases)
+<!-- [![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&v5)](https://github.com/funatsufumiya/jis_geta/releases) -->
+
+![version](http://img.shields.io/badge/version-v1.1.6-blue.svg?style=flat)
 
 JIS + 新下駄 = JIS下駄。
 
