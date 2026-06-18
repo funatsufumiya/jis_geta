@@ -11,13 +11,6 @@ JIS + 新下駄 = JIS下駄。
 > - 名前に「下駄」とあるのは、新下駄配列をルーツとしているためですが、全く異なる配列です。<br>
 > - 同じ新下駄配列ベースの亜種として、[矢次配列 (Yazgi Layout)](https://github.com/ffunatsu/yazgi_layout) も併せて検討してみてください。
 
-## 紹介動画
-
-https://youtu.be/lSc-KZsAjAk
-
-[![紹介動画](docs/screenshot_movie2.png)](https://youtu.be/lSc-KZsAjAk)
-
-
 ## 仕様
 
 ![docs/screenshot_main.png](docs/screenshot_main.png)
